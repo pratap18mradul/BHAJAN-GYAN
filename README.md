@@ -1,6 +1,6 @@
-# Bhajan Gyan
+﻿# BHAJAN-GYAN
 
-A simple bhajan music player website.
+**BHAJAN - Reunite With The God** is a responsive devotional music player built with HTML, CSS, and JavaScript. It features play/pause controls, next/previous navigation, a progress bar, an add-to-favorites feature, and a clean interface that works across desktop and mobile devices.
 
 ## Project Structure
 
